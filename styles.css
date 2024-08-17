@@ -16,13 +16,13 @@ body {
 }
 
 /* Header styles */
-header {
+headers {
   background-color: #333;
   color: white;
   padding: 10px 0;
 }
 
-header .logo h1 {
+headers .logo h1 {
   text-align: center;
   font-size: 2em;
 }
@@ -57,7 +57,7 @@ nav ul li a:hover {
   padding: 20px;
 }
 
-.job-card {
+.job-cards {
   background-color: white;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -67,12 +67,12 @@ nav ul li a:hover {
   text-align: center;
 }
 
-.job-card h2 {
+.job-cards h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
 }
 
-.job-card p {
+.job-cards p {
   font-size: 1em;
   margin-bottom: 20px;
 }
@@ -103,14 +103,14 @@ nav ul li a:hover {
 }
 
 /* Footer styles */
-footer {
+footers {
   background-color: #333;
   color: white;
   padding: 20px;
   text-align: center;
 }
 
-.footer-content {
+.footers-content {
   display: flex;
   flex-direction: column;
   align-items: center;
