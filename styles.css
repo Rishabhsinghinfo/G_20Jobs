@@ -49,7 +49,7 @@ nav ul li a:hover {
 }
 
 /* Job Listings Section */
-.job-listings {
+.job-listingsc {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
